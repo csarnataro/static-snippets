@@ -1,6 +1,6 @@
 ---
-title: 'This is a title'
-date: '2022-10-10T13:07:44.675Z'
+title: This is a title
+date: 2022-10-10T13:07:44.675Z
 closeable: false
 ---
 # Hi
