@@ -7,6 +7,8 @@ closeable: false
 
 We're aware of an issue with the current version of App Lab.
 
-Please download the latest version [from our website](https://www.arduino.cc/en/software#app-lab)
+Please download the latest version from our website
+
+[Download](https://www.arduino.cc/en/software#app-lab)
 
 Thank you for you understanding
